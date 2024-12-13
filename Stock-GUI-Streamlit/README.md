@@ -1,4 +1,4 @@
-## Streamlit web app implementation of the project. 
+# Streamlit web app implementation of the project. 
 
 ## Pre-requisites :
 
@@ -31,4 +31,3 @@ The head of the data frame is printed along with the options for choosing the pe
 
 
 The user can choose from the five Deep Learning algorithms – LSTM, MLP, RNN, Basic ANN, and Autoencoder. Suppose the user chooses MLP, the R2 score, Mean Squared Log error, and the output plot with the predicted and observed lines are given. 
-
