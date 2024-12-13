@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Streamlit web app implementation of the project. 
+=======
+## Streamlit web app implementation of the project. 
+>>>>>>> 233f98e (Updated Stock-GUI-Streamlit/README.md)
 
 ## Pre-requisites :
 
